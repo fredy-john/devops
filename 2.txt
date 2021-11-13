@@ -1,1 +1,3 @@
 my second file for learning GIT
+1st edit to second file
+
